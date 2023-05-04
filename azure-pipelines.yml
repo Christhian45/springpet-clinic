@@ -12,7 +12,6 @@ steps:
   inputs:
     SonarCloud: 'Sonar-azure'
     organization: 'christhian45'
-    scannerMode: 'Other'
     projectKey: 'Christhian45_springpet-clinic'
     projectName: 'springpet-clinic'
   displayName: 'SonarCloud Prepare'
